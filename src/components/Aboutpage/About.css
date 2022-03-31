@@ -1,0 +1,55 @@
+img.card-img-top4 {
+  width: 84%;
+}
+.credit_img {
+  width: 15% !important;
+}
+.col-spaced {
+  padding: 0px 10px;
+}
+.card_wallet:hover {
+  background-image: linear-gradient(to bottom, #670ace, #340567);
+}
+.rounded1 {
+  border-radius: 1.25em !important;
+}
+.btn-wallet {
+  color: #fff;
+  border: 1px solid #7900ff !important;
+  background: #7900ff !important;
+}
+.btn-wallet:hover {
+  color: #7900ff !important;
+  border: 1px solid #7900ff !important;
+  background: #fff !important;
+}
+.bg-shree-transparent.insta:hover {
+  background: #520abb;
+}
+.about_imge1 {
+  margin-top: -84px;
+}
+/* mobile */
+@media only screen and (max-width: 600px) {
+  .wht_shree {
+    padding-top: 52%;
+  }
+  .about_imge1 {
+    margin-top: -24px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .wht_shree {
+    padding-top: 24%;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .wht_shree {
+    padding-top: 19%;
+  }
+}
+@media only screen and (max-width: 1440px) {
+  wht_shree {
+    padding-top: 13%;
+  }
+}

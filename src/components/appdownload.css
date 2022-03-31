@@ -1,0 +1,77 @@
+h6 {
+  color: #2d1f78;
+}
+ul.check-list {
+  max-width: 500px;
+}
+ul.check-list li {
+  padding-bottom: 12px;
+  display: inline-block;
+  width: 100%;
+}
+ul.check-list li span {
+  width: 18px;
+  height: 18px;
+  line-height: 18px;
+  border-radius: 100%;
+  display: block;
+  text-align: center;
+  float: left;
+  position: relative;
+  top: 4px;
+}
+ul,
+li,
+label,
+span {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+ul.check-list li span {
+  background: #fff;
+  color: #470fac;
+}
+ul.check-list li p {
+  padding-left: 10px;
+  width: calc(100% - 18px);
+  float: left;
+}
+p.crypto {
+  margin-bottom: 10px !important;
+}
+.bubble-set {
+  position: relative;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.bubble-set .bubble-lg {
+  top: calc(100% - 300px);
+  left: 2%;
+  width: 950px;
+  height: 950px;
+}
+.bubble-set div {
+  position: absolute;
+  border-radius: 50%;
+  background: rgb(255 255 255 / 6%);
+}
+.bubble-set .bubble-md {
+  top: -300px;
+  right: -10%;
+  width: 835px;
+  height: 835px;
+}
+.bubble-set .bubble-sm {
+  top: 0;
+  right: 15%;
+  width: 535px;
+  height: 535px;
+}
+.creative-banner {
+  position: relative;
+  overflow: hidden;
+  /* height: 120%; */
+  background: -webkit-linear-gradient(230deg, #7900ff 0%, #7900ff 100%);
+  background: linear-gradient(220deg, #7900ff 0%, #7900ff 100%);
+}

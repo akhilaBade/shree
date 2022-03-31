@@ -1,0 +1,25 @@
+img.card-img-top3 {
+  width: 64%;
+}
+.credit_img {
+  width: 15% !important;
+}
+.col-spaced {
+  padding: 0px 10px;
+}
+.card_wallet:hover {
+  background-image: linear-gradient(to bottom, #670ace, #340567);
+}
+.rounded1 {
+  border-radius: 1.25em !important;
+}
+.btn-wallet {
+  color: #fff;
+  border: 1px solid #7900ff !important;
+  background: #7900ff !important;
+}
+.btn-wallet:hover {
+  color: #7900ff !important;
+  border: 1px solid #7900ff !important;
+  background: #fff !important;
+}
